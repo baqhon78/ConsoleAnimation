@@ -17,7 +17,7 @@ void Animation::SetPos(Point::Point point) const {
 	SetConsoleCursorPosition(hcon, { (short)point.x, (short)point.y });
 }
 
-
+powsjipogjnhwoikgjiokjhiokeria[ghewh[0i9ru9325]782fum]jrUVFHEKJWHGBHSWIZHG0IBY5IT4[Y0]
 
 void Animation::print(std::ostream& out) const {
 	for (auto point : points) {
